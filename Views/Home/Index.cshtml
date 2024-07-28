@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<main>
+    <div class="text-center">
+        <h1 class="display-4">¡Tienes que ayudar a Buzz a escapar!</h1>
+    </div>
+
+    <div class="image-container">
+      
+        
+       <div class="image-container">
+    <div class="image-item" onclick=window.location.href='@Url.Action("Tutorial","Home")'>
+        <img src="/Images/IndexImg/Al_mcwighin.png" class="image">
+        <div class="text">Tutorial</div>
+    </div>
+    
+    <div class="image-item" onclick=window.location.href='@Url.Action("Comenzar","Home")'>
+        <img src="/Images/IndexImg/Buzz_inicio.png" class="image">
+        <div class="text">Jugar</div>
+    </div>
+    
+    <div class="image-item" onclick=window.location.href='@Url.Action("Creditos","Home")'>
+        <img src="/Images/IndexImg/Marcianitos.png" class="image">
+        <div class="text">Créditos</div>
+    </div>
+</main>
+
+
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>

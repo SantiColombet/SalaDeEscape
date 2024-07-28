@@ -1,0 +1,282 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+body {
+  background-image: url("../Images/General/Background_toy_story.png");
+  background-repeat: repeat;
+  background-size: 100%;
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+  z-index: 0;
+}
+
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.navbar-brand img{
+  width: 100px;
+  height: 100px;
+}
+
+/*                                                              creditos                                                             */
+
+.main-1 {
+  width: 100%;
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #000;
+}
+.Fotos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  border: 1px solid #000;
+
+
+}
+
+/* Estilo para cada ítem de foto */
+.foto-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Estilo para cada imagen */
+.Fotos img {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  transition: transform 0.3s, box-shadow 0.3s;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 10px;
+}
+
+.Fotos img:hover {
+  transform: scale(1.1);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+/* Estilo para el texto debajo de cada imagen */
+.foto-item p {
+  font-size: 1rem;
+  color: #555;
+  font-family: 'Arial, sans-serif';
+  text-align: center;
+  margin: 0;
+}
+
+/*                                                              INDEX                                                             */
+
+body {
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+main{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+
+.image-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+.image-item {
+    display: flex;
+    align-items: center;
+    align-items: flex-start;
+    background-color: #fff;
+    width: 350px;
+    height: auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.image-item:hover {
+    transform: scale(1.1);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.image {
+    margin-right: 20px;
+    width: 150px;
+    height: auto;
+    transition: transform 0.3s;
+    border-radius: 5px;
+}
+
+.image-item:hover .image {
+    transform: scale(1.15);
+}
+
+.text {
+    font-size: 24px;
+    font-weight: bold;
+}
+/*                                                              HABITACIONES GENERAL                                            */
+
+.custom-swal-image {
+  border-radius: 5px; 
+  max-width: 100%; 
+  height: 400px;
+}
+.habitacion-general{
+  display: flex;
+  margin-top: 40px;
+  margin-bottom: 100px;
+  align-items: center;
+}
+
+.habitacion-general-main{
+  display: flex;
+  flex-direction: column;
+  border-radius: 15px;
+  background-color: white;
+  width: 80%;
+  padding: 20px;
+  justify-content: center;
+}
+/*                                                              habitacion 1                                                    */
+
+.habitacion-general-main h1 {
+  font-size: 2.5rem;
+  color: #000;
+  margin-bottom: 1rem;
+}
+.habitacion-general-main h2 {
+  font-size: 1.8rem;
+  color: #444;
+  margin-bottom: 0.8rem;
+}
+.habitacion-general-main p {
+  font-size: 1rem;
+  line-height: 1.6;
+  }
+.habitacion-general-main div > div {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.habitacion-general-main div > div p {
+  flex-basis: calc(50% - 0.5rem);
+  background-color: #f0f0f0;
+  padding: 0.8rem;
+  margin-bottom: 0.8rem;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+.habitacion-general-main div > div p:hover {
+  background-color: #e0e0e0;
+}
+.habitacion-1-img {
+  display: flex;
+  justify-content: center;
+  max-width: 100%;
+}
+
+.form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  gap: 15px;
+}
+
+/* Input styles */
+.input {
+  position: relative;
+  font-size: 1.2em;
+  background: linear-gradient(45deg, #7dcadd, #4679da);
+  padding: 3px;
+  border-radius: 10px;
+  display: inline-block;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.input input {
+  font-family: 'Arial', sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #2e3750;
+  background-color: #fff;
+  border: none;
+  border-radius: 7px;
+  padding: 10px 15px;
+  width: 200px;
+  transition: all 0.3s ease;
+}
+
+.input input:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px #fff,
+              0 0 0 6px #54c2e4;
+}
+
+.input input::placeholder {
+  color: #999;
+}
+
+/* Submit button styles */
+.submit-button {
+  background-color: #54c2e4;
+  color: #000;
+  border: none;
+  border-radius: 10px;
+  padding: 12px 25px;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: 'Arial', sans-serif;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.submit-button:hover {
+  background-color: #20b3c7;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15);
+}
+
+.submit-button:active {
+  transform: translateY(1px);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/*                                                              habitacion 4                                                    */
+
+
+
+

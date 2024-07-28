@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Habitacion2</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <main class="habitacion-general">
+        <section class="habitacion-general-main">
+            <div>
+                <h1>Desafío zona 2 “Energía”</h1>
+                <h2>¡Un acertijo!</h2>
+                <p>Para salir de esta habitación, debes adivinar la siguiente adivinanza:</p>
+                <p>“En dispositivos yo estoy, dando energía sin cesar, sin mí, tu reloj se parará, ¿sabes ya quién soy?”</p>
+            </div>
+          
+            <form class="form" action='@Url.Action("Habitacion","Home")'>
+                <input type="hidden" name="sala" value="2">
+                <span class="input">
+                    <input type="text" name="clave" class="clave" placeholder="clave">
+                </span>
+                <input type="submit" class="submit-button">
+            </form>   
+
+
+        </section>
+    </main>
+
+</body>
