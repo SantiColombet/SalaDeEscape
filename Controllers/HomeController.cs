@@ -27,7 +27,7 @@ public class HomeController : Controller
         int sala = Escape.GetEstadoJuego();
         string habitacion = "Habitacion" + sala.ToString(); 
 
-        return View(habitacion);
+        return RedirectToAction("Habitacion", new { sala = sala });
     }
     public IActionResult Creditos()
     {
@@ -40,7 +40,6 @@ public class HomeController : Controller
             string habitacionActual = "Habitacion" + Escape.GetEstadoJuego().ToString();
             return View(habitacionActual);
         }
-        
         if (Escape.ResolverSala(sala, clave))
         {
             if (Escape.GetEstadoJuego() > Escape.TotalSalas) 

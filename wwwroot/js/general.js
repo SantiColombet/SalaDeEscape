@@ -6,7 +6,7 @@ img.addEventListener("click", () =>{
     Swal.fire({
         title: '¡Pista!',
         text: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s',
-        imageUrl: "Images/General/Al_McWhiggin.png",
+        imageUrl: "../Images/General/Al_McWhiggin.png",
         imageHeight: 400,
         confirmButtonText: 'Continuar',
         customClass: {
@@ -18,7 +18,8 @@ img.addEventListener("click", () =>{
 
 function obtenerNumeroHabitacion() {
     const nombreArchivo = window.location.pathname.split('/').pop();
-    const match = nombreArchivo.match(/habitacion(\d+)\.cshtml/i);
+    console.log(nombreArchivo);
+    const match = nombreArchivo.match(/Habitacion/);
     return match ? parseInt(match[1]) : 0;
 }
 

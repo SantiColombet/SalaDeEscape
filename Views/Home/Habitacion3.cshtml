@@ -1,1 +1,32 @@
-<h1>habitacion 3</h1>   
+<!DOCTYPE html>
+@{
+    ViewData["Title"] = "Habitacion3";
+}
+
+<main class="habitacion-general">
+    <section class="habitacion-general-main" id="habitacion-3-main">
+        <div>
+            <h1>Camionetas y camionetas</h1>
+            <h2>¡Ayuda a buzz a encontrar la camioneta verdadera!</h2>
+            <p>Buzz Lightyear necesita ayuda para poder seleccionar la camioneta correcta. Una vez que selecciones la camioneta correcta, se revelara un codigo para ir a la siguiente sala,
+            pero deberas ser cuidadoso para no confundirte. Ayuda a Buzz a resolver este acertijo para poder escapar.</p>
+        </div>
+
+        <div class="habitacion-3-img">
+            <img src="../Images/Habitacion3/Camioneta_falsa.png" id="camioneta_falsa">
+            <img src="../Images/Habitacion3/Camioneta_correcta.png" id="camioneta_correcta">
+        </div>
+
+        <div class="boton-secreto"id="boton-secreto">
+
+        </div>
+
+        <form class="form" action='@Url.Action("Habitacion","Home")'>
+            <input type="hidden" name="sala" value="2">
+            <span class="input">
+                <input type="text" name="clave" class="clave" placeholder="clave">
+            </span>
+            <input type="submit" class="submit-button">
+        </form>   
+    </section>
+</main>
