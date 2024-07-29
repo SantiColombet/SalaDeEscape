@@ -1,307 +1,307 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\sala_de_escape.bundle.scp.css",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\sala_de_escape.bundle.scp.css",
       "PackagePath": "staticwebassets\\sala_de_escape.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\Images\\General\\Al_McWhiggin.png",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\Images\\General\\Al_McWhiggin.png",
       "PackagePath": "staticwebassets\\Images\\General\\Al_McWhiggin.png"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\Images\\General\\Background_toy_story.png",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\Images\\General\\Background_toy_story.png",
       "PackagePath": "staticwebassets\\Images\\General\\Background_toy_story.png"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\Images\\General\\Logo.png",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\Images\\General\\Logo.png",
       "PackagePath": "staticwebassets\\Images\\General\\Logo.png"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\Images\\General\\lupa.png",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\Images\\General\\lupa.png",
       "PackagePath": "staticwebassets\\Images\\General\\lupa.png"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\Images\\Habitacion1\\Habitacion_1.png",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\Images\\Habitacion1\\Habitacion_1.png",
       "PackagePath": "staticwebassets\\Images\\Habitacion1\\Habitacion_1.png"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\Images\\Habitacion3\\Camioneta_correcta.png",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\Images\\Habitacion3\\Camioneta_correcta.png",
       "PackagePath": "staticwebassets\\Images\\Habitacion3\\Camioneta_correcta.png"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\Images\\Habitacion3\\Camioneta_falsa.png",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\Images\\Habitacion3\\Camioneta_falsa.png",
       "PackagePath": "staticwebassets\\Images\\Habitacion3\\Camioneta_falsa.png"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\Images\\IndexImg\\Al_mcwighin.png",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\Images\\IndexImg\\Al_mcwighin.png",
       "PackagePath": "staticwebassets\\Images\\IndexImg\\Al_mcwighin.png"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\Images\\IndexImg\\Buzz_inicio.png",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\Images\\IndexImg\\Buzz_inicio.png",
       "PackagePath": "staticwebassets\\Images\\IndexImg\\Buzz_inicio.png"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\Images\\IndexImg\\Marcianitos.png",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\Images\\IndexImg\\Marcianitos.png",
       "PackagePath": "staticwebassets\\Images\\IndexImg\\Marcianitos.png"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\css\\site.css",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\favicon.ico",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\js\\camionetas.js",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\js\\camionetas.js",
       "PackagePath": "staticwebassets\\js\\camionetas.js"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\js\\general.js",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\js\\general.js",
       "PackagePath": "staticwebassets\\js\\general.js"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\js\\pista1.js",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\js\\pista1.js",
       "PackagePath": "staticwebassets\\js\\pista1.js"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\js\\pista2.js",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\js\\pista2.js",
       "PackagePath": "staticwebassets\\js\\pista2.js"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\js\\pista3.js",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\js\\pista3.js",
       "PackagePath": "staticwebassets\\js\\pista3.js"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\js\\pista4.js",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\js\\pista4.js",
       "PackagePath": "staticwebassets\\js\\pista4.js"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

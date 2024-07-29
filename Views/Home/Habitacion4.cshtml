@@ -6,11 +6,43 @@
     <title>Cajas registradoras</title>
     <link rel="stylesheet" href="styles.css">
 </head>
+<main class="habitacion-general">
+    <section class="habitacion-general-main" id="habitacion-3-main">
+        <div>
+            <h1>Camionetas y camionetas</h1>
+            <h2>¡Ayuda a buzz a encontrar la camioneta verdadera!</h2>
+            <p>Buzz llegó a la casa de andy, pero en la puerta se encuentra con un panel de control que tiene una pantalla que muestra una serie de pistas y preguntas. Andy creó este tablero en base a un cuestionario que unicamente podria responder él 
+                Para avanzar, Buzz debe responder correctamente utilizando su .</p>
+        </div>
+
+        <div class="habitacion-3-img">
+            <img src="../Images/Habitacion3/Camioneta_falsa.png" id="camioneta_falsa">
+            <img src="../Images/Habitacion3/Camioneta_correcta.png" id="camioneta_correcta">
+        </div>
+
+        <div class="boton-secreto"id="boton-secreto">
+
+        </div>
+
+        <form class="form" action='@Url.Action("Habitacion","Home")'>
+            <input type="hidden" name="sala" value="4">
+            <span class="input">
+                <input type="text" name="clave" class="clave" placeholder="clave">
+            </span>
+            <input type="submit" class="submit-button">
+        </form>   
+    </section>
+</main>
+
+
+
+
 <footer class="footer">
     <div class="footer-left">
         &copy; Sala de escape
     </div>
     <div class="footer-right">
+        
         <div class="pista-menu">
             <img src="../Images/General/lupa.png" alt="Pista" class="img-pista" id="pista4">
         </div>

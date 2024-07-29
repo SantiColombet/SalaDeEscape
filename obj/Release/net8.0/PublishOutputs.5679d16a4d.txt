@@ -1,0 +1,7 @@
+C:\VisualStudioOrt\SalaDeEscape\out\sala_de_escape.exe
+C:\VisualStudioOrt\SalaDeEscape\out\appsettings.Development.json
+C:\VisualStudioOrt\SalaDeEscape\out\appsettings.json
+C:\VisualStudioOrt\SalaDeEscape\out\sala_de_escape.dll
+C:\VisualStudioOrt\SalaDeEscape\out\sala_de_escape.deps.json
+C:\VisualStudioOrt\SalaDeEscape\out\sala_de_escape.runtimeconfig.json
+C:\VisualStudioOrt\SalaDeEscape\out\sala_de_escape.pdb
