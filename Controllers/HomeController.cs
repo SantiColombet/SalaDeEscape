@@ -27,7 +27,7 @@ public class HomeController : Controller
         int sala = Escape.GetEstadoJuego();
         string habitacion = "Habitacion" + sala.ToString(); 
 
-        return RedirectToAction("Habitacion", new { sala = sala });
+        return View(habitacion);
     }
     public IActionResult Creditos()
     {

@@ -15,25 +15,18 @@
         </main> 
     </div>
 
-    <footer class="footer">
-        <div class="footer-left">
-            &copy; Sala de escape
-        </div>
-        <div class="footer-right">
-            <div class="pista-menu">
-                <img src="../Images/General/lupa.png" alt="Pista" class="img-pista">
-            </div>
-            <div class="boton-menu">
-                <button onclick="window.location.href='@Url.Action("Index")'">Volver al menu</button>
-            </div>
-        </div>
-    </footer>
+
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
-    <script src="~/js/site.js"></script>
+    <script src="~/js/camionetas.js"></script>
+    <script src="~/js/pista1.js"></script>
+    <script src="~/js/pista2.js"></script>
+    <script src="~/js/pista3.js"></script>
+    <script src="~/js/pista4.js"></script>
     <script src="~/js/general.js"></script>
-    
+
     @await RenderSectionAsync("Scripts", required: false)
+    
 </body>
 </html>

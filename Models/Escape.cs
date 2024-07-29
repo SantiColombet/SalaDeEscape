@@ -1,7 +1,7 @@
 static class Escape{
-static string[] incognitasSalas = {"5133515","bateria", "1234", "hola"};
+static string[] incognitasSalas = {"5133515","bateria","1234", "hola", "aaa"};
 static int estadoJuego = 1;
-public static int TotalSalas => incognitasSalas.Length;
+public static int TotalSalas = incognitasSalas.Length;
 
 
 private static void InicializarJuego(){
@@ -15,7 +15,8 @@ public static int GetEstadoJuego(){
 public static bool ResolverSala(int Sala, string Incognita){
     int _estadoJuego = GetEstadoJuego();
     bool resuelto;  
-    string respuesta = incognitasSalas[_estadoJuego-1];
+    string respuesta = incognitasSalas[_estadoJuego - 1];
+
     if(Sala != estadoJuego)
     {
         return false;

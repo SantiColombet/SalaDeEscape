@@ -53,12 +53,28 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\js\\camionetas.js",
+      "PackagePath": "staticwebassets\\js\\camionetas.js"
+    },
+    {
       "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\js\\general.js",
       "PackagePath": "staticwebassets\\js\\general.js"
     },
     {
-      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\js\\site.js",
-      "PackagePath": "staticwebassets\\js\\site.js"
+      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\js\\pista1.js",
+      "PackagePath": "staticwebassets\\js\\pista1.js"
+    },
+    {
+      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\js\\pista2.js",
+      "PackagePath": "staticwebassets\\js\\pista2.js"
+    },
+    {
+      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\js\\pista3.js",
+      "PackagePath": "staticwebassets\\js\\pista3.js"
+    },
+    {
+      "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\js\\pista4.js",
+      "PackagePath": "staticwebassets\\js\\pista4.js"
     },
     {
       "Id": "C:\\Users\\USUARIO\\Downloads\\sala_de_escape\\wwwroot\\lib\\bootstrap\\LICENSE",
