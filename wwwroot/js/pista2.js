@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
     const pista2 = document.querySelector("#pista2");
 
-    pista2.addEventListener('click', function() {
+    pista2.addEventListener('click', () => {
         Swal.fire({
             title: 'Pista',
             confirmButtonText: 'continuar',

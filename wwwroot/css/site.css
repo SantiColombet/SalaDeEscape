@@ -144,6 +144,12 @@ main{
 }
 /*                                                              HABITACIONES GENERAL                                            */
 
+/* TIMER */
+#timer {
+  font-size: 24px;
+  font-weight: bold;
+}
+
 /*  PISTA  */
 .custom-swal-image {
   border-radius: 5px; 
@@ -307,130 +313,65 @@ main{
 }
 
 .habitacion-3-boton {
-  background-color: #45a049;
+  background-color: #45a049; 
 }
 
 
 /*                                                              habitacion 4                                                    */
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
-
-
-
-#view {
-    margin-top: 30px;
+#game-board {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 10px;
+  margin-top: 20px;
 }
-
-#mazeContainer {
-    top: 15px;
-    opacity: 0;
-    display: inline-block;
-    margin: auto;
-    border-radius: 10px;
+.card {
+  width: 100px;
+  height: 100px;
+  background-color: #3498db;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  perspective: 1000px;
 }
-#mazeContainer #mazeCanvas {
-    margin: 0;
-    display: block;
-    border: solid 2px black;
-    height: 400px;
+.card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
 }
-input, select {
-    cursor: pointer;
-    background-color: rgba(0, 0, 0, 0.30);
-    height: 45px;
-    width: 150px;
-    padding: 10px;
-    border: none;
-    border-radius: 5px;
-    color: white;
-    display: inline-block;
-    font-size: 15px;
-    text-align: center;
-    text-decoration: none;
-    appearance: none;
+.card.flipped .card-inner {
+  transform: rotateY(180deg);
 }
-
-
-.custom-select {
-	display: inline-block;
+.card-front, .card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
 }
-.custom-select select {
-    -webkit-appearance: none;
-    -moz-appearance: none;
-    appearance: none;
-    background-repeat: no-repeat;
-    background-position: 125px center;
+.card-front {
+  background-color: #3498db;
 }
-#Message-Container {
-    visibility: hidden;
-    color: white;
-    display: block;
-    width: 100vw;
-    height: 100vh;
-    position: fixed;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    right: 0;
-    background-color: rgba(0, 0, 0, 0.30);
-    z-index: 1;
+.card-back {
+  background-color: #2ecc71;
+  transform: rotateY(180deg);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
 }
-#Message-Container #message {
-    width: 300px;
-    height: 300px;
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    margin-left: -150px;
-    margin-top: -150px;
+.card-back img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
 }
-#page {
-	text-align: center;
-	height: auto;
-	width: auto;
-	margin: auto;
+#moves {
+  margin-top: 20px;
+  font-size: 18px;
 }
-#page #menu {
-    margin: auto;
-    padding: 10px;
-    height: 65px;
-    box-sizing: border-box;
-}
-#page #menu h1 {
-    margin: 0;
-    margin-bottom: 10px;
-    font-weight: 600;
-    font-size: 3.2rem;
-}
-#page #view {
-    position: absolute;
-    top: 65px;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    width: 100%;
-    height: auto;
-}
-.border {
-    border: 10px black solid;
-    border-radius: 10px;
-}
-
-#instructions {
-    margin-top: 425px;
-}
- 
-/* Extra small devices (phones, 600px and down) */
-@media only screen and (max-width: 400px) {
-	input, select {
-	    width: 120px;
-	}
-}
-
-
-
-
-
-
 
 /*                                                            FOOTER                                                        */
 .footer {
@@ -492,4 +433,20 @@ input, select {
 .boton-menu button:hover {
   background-color: #0056b3;
   transform: scale(1.05);
+}
+/*Error MSG*/
+.error-msg{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  border: solid rgba(255,0,0,0.1) 1px;
+  border-radius: 4px;
+  background-color: rgba(255,0,0,0.1);
+  
+}
+.error-msg p{
+  
+font-size: 20px;
+color: rgba(255,0,0,1);
 }

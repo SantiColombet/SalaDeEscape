@@ -55,7 +55,9 @@ public class HomeController : Controller
         else
         {
             ViewBag.Error = "La respuesta escrita fue incorrecta.";
+         
             string habitacionActual = "Habitacion" + sala.ToString();
+            
             return View(habitacionActual);
         }
     }
