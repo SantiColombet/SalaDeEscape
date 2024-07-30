@@ -9,6 +9,10 @@ const cards = [...imagePaths, ...imagePaths];
 let flippedCards = [];
 let moves = 0;
 const maxMoves = 10;
+const div1 = document.querySelector("#div-boton");
+
+
+console.log(div1);
 
 function shuffleArray(array) {
     for (let i = array.length - 1; i > 0; i--) {
@@ -57,7 +61,6 @@ function checkMatch() {
     const [card1, card2] = flippedCards;
     const index1 = card1.dataset.index;
     const index2 = card2.dataset.index;
-
     if (cards[index1] === cards[index2]) {
         card1.removeEventListener('click', flipCard);
         card2.removeEventListener('click', flipCard);
@@ -69,8 +72,20 @@ function checkMatch() {
 
     if (document.querySelectorAll('.flipped').length === cards.length) {
         setTimeout(() => {
+            const button = document.createElement("button");
+            button.textContent = "??";
+            div1.appendChild(button); 
+            button.classList.add("habitacion-4-boton");
+        
+            button.addEventListener("click", () => {
+                Swal.fire({
+                    title: 'clave',
+                    imageUrl: "../Images/habitacion4/rex.png",
+                    text: 'rex'
+                })
+            });
+
             alert(`¡Felicidades! Has completado el juego en ${moves} movimientos.`);
-            resetGame();
         }, 500);
     } else if (moves >= maxMoves) {
         setTimeout(() => {
@@ -78,6 +93,7 @@ function checkMatch() {
             resetGame();
         }, 500);
     }
+
 }
 
 function updateMoves() {
@@ -89,3 +105,4 @@ function resetGame() {
 }
 
 createBoard();
+

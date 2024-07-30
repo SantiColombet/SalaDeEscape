@@ -1,6 +1,6 @@
 static class Escape{
-static string[] incognitasSalas = {"5133515","bateria","1234", "hola"};
-static int estadoJuego = 1;
+static string[] incognitasSalas = {"5133515","bateria","andy","rex"};
+public static int estadoJuego = 1;
 public static int TotalSalas = incognitasSalas.Length;
 
 

@@ -45,6 +45,26 @@
       "PackagePath": "staticwebassets\\Images\\IndexImg\\Marcianitos.png"
     },
     {
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\Images\\Victoria\\Buzz-pizza.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Victoria\\Buzz-pizza.jpeg"
+    },
+    {
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\Images\\creditos\\Berman.jpg",
+      "PackagePath": "staticwebassets\\Images\\creditos\\Berman.jpg"
+    },
+    {
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\Images\\creditos\\dekel.jpg",
+      "PackagePath": "staticwebassets\\Images\\creditos\\dekel.jpg"
+    },
+    {
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\Images\\creditos\\santi.jpg",
+      "PackagePath": "staticwebassets\\Images\\creditos\\santi.jpg"
+    },
+    {
+      "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\Images\\habitacion2\\pilasbuzz.jpg",
+      "PackagePath": "staticwebassets\\Images\\habitacion2\\pilasbuzz.jpg"
+    },
+    {
       "Id": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\Images\\habitacion4\\buzz.png",
       "PackagePath": "staticwebassets\\Images\\habitacion4\\buzz.png"
     },

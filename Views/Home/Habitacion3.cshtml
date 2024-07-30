@@ -8,8 +8,15 @@
         <div>
             <h1>Camionetas y camionetas</h1>
             <h2>¡Ayuda a buzz a encontrar la camioneta verdadera!</h2>
-            <p>Buzz Lightyear necesita ayuda para poder seleccionar la camioneta correcta. Una vez que selecciones la camioneta correcta, se revelara un codigo para ir a la siguiente sala,
-            pero deberas ser cuidadoso para no confundirte. Ayuda a Buzz a resolver este acertijo para poder escapar.</p>
+            <p>Buzz Lightyear y sus amigos han escapado de la tienda de juguetes de Al McWhiggin y ahora deben regresar
+                a la casa de Andy. El Emperador Zurg ha preparado una trampa con dos camionetas de "Pizza Planet"
+                idénticas. Solo una es la verdadera que los llevará a casa.
+            </p>
+
+            <p>
+               Observa las imágenes y elige con cuidado. La correcta revelará un código para avanzar. ¡Ayuda a Buzz a escapar!
+            </p>
+            </p>
         </div>
 
         <div class="habitacion-3-img">
@@ -17,7 +24,7 @@
             <img src="../Images/Habitacion3/Camioneta_correcta.png" id="camioneta_correcta">
         </div>
 
-        <div class="boton-secreto"id="boton-secreto">
+        <div class="boton-secreto" id="boton-secreto">
 
         </div>
 
@@ -27,15 +34,16 @@
                 <input type="text" name="clave" class="clave" placeholder="clave">
             </span>
             <input type="submit" class="submit-button">
-        </form>   
-         @{
-            if(ViewBag.Error != null){
-                <div class = "error-msg">
-                <p>@ViewBag.Error</p>
+        </form>
+        @{
+            if (ViewBag.Error != null)
+            {
+                <div class="error-msg">
+                    <p>@ViewBag.Error</p>
                 </div>
             }
-            
-        }   
+
+        }
     </section>
 </main>
 <footer class="footer">
@@ -52,4 +60,3 @@
         </div>
     </div>
 </footer>
-

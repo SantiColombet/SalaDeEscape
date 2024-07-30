@@ -1,10 +1,10 @@
 
-let segundosTotales = 30; 
+let segundosTotales = 600; 
 const timer = document.querySelector("#timer");
 const boton = document.querySelector("#boton-menu");
 
 boton.addEventListener("click", () =>{
-    localStorage.setItem('segundos', 30);
+    localStorage.setItem('segundos', 600);
 });
 
 function updateTimer() {
@@ -23,17 +23,9 @@ function updateTimer() {
     localStorage.setItem('segundos', segundosTotales);
 
     segundosTotales--;
-}
-
-const segundosGuardados = localStorage.getItem('segundos');
-if (segundosGuardados) {
-    segundosTotales = parseInt(segundosGuardados);
-}
-const timerInterval = setInterval(updateTimer, 1000);
-updateTimer();
-
-if(segundosGuardados == 0){
-    pista2.addEventListener('click', () => {
+    
+    if(segundosTotales == 0){
+        console.log("hola")
         Swal.fire({
             title: 'Se termino tu tiempo...',
             confirmButtonText: 'continuar',
@@ -43,5 +35,14 @@ if(segundosGuardados == 0){
                 image: 'custom-swal-image'
             }
         });
-    });
+    }
 }
+
+const segundosGuardados = localStorage.getItem('segundos');
+if (segundosGuardados) {
+    segundosTotales = parseInt(segundosGuardados);
+}
+const timerInterval = setInterval(updateTimer, 1000);
+updateTimer();
+
+

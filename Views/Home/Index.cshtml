@@ -3,7 +3,7 @@
 }
 <main>
     <div class="text-center">
-        <h1 class="display-4">¡Tienes que ayudar a Buzz a escapar!</h1>
+        <h1 class="display-4">Tienes que ayudar a Buzz a escapar</h1>
     </div>
 
     <div class="image-container">
@@ -33,9 +33,13 @@
         <div class="pista-menu">
             <img src="../Images/General/lupa.png" alt="Pista" class="img-pista">
         </div>
+        <div class="boton-menu" id="reset">
+            <button onclick="window.location.href='@Url.Action("Resetear","Home")'">Reiniciar Juego</button>
+        </div>
         <div class="boton-menu">
             <button onclick="window.location.href='@Url.Action("Index")'">Volver al menu</button>
         </div>
+
     </div>
 </footer>
 

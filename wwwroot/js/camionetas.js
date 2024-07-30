@@ -25,7 +25,7 @@ camioneta_correcta.addEventListener("click", () =>{
     div.appendChild(button);
   
     button.addEventListener("mouseover", () => {
-        button.textContent = "clave: 1234";
+        button.textContent = "clave: andy";
     });
   
     button.addEventListener("mouseout", () => {

@@ -3,9 +3,32 @@
 }
 
 <body>
+<main class="habitacion-general">
+    <section class="habitacion4">
     <h1>Memotest</h1>
     <div id="game-board"></div>
     <div id="moves">Movimientos: 0</div>
+    <div id="div-boton" class="div-boton">
+    </div>
+
+    <form class = "form" id = "form4" action = '@Url.Action("Habitacion","Home")'>
+            <input type= "hidden" name = "sala" value="4">
+        <span class="input">
+        <input type="text" name="clave" class = "clave" placeholder ="clave">
+        </span>
+        <input type="submit" class = "submit-button">
+        </form>
+         @{
+            if (ViewBag.Error != null)
+            {
+                <div class="error-msg" id="error-msg-4">
+                    <p>@ViewBag.Error</p>
+                </div>
+            }
+
+        }
+  </section>
+</main>
 </body>
 
 <footer class="footer">
@@ -15,7 +38,7 @@
     <div id="timer"></div>
     <div class="footer-right">
         <div class="pista-menu">
-            <img src="../Images/General/lupa.png" alt="Pista" class="img-pista" id="pista3">
+            <img src="../Images/General/lupa.png" alt="Pista" class="img-pista" id="pista4">
         </div>
         <div class="boton-menu">
             <button id="boton-menu" onclick="window.location.href='@Url.Action("Index")'">Volver al menu</button>
@@ -23,5 +46,4 @@
     </div>
 </footer>
 
-
-<script src=""
+<script src="~/js/memotest.js"></script>

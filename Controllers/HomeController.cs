@@ -12,7 +12,10 @@ public class HomeController : Controller
     {
         _logger = logger;
     }
-
+    public IActionResult Resetear(){
+        Escape.estadoJuego = 1;
+        return View("Index");
+    }
     public IActionResult Index()
     {
         return View();
@@ -61,7 +64,7 @@ public class HomeController : Controller
             return View(habitacionActual);
         }
     }
-
+  
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
     {
