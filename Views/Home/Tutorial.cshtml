@@ -1,6 +1,50 @@
-<h1>tutorial</h1>   
+@{
+    ViewData["Title"] = "Tutorial";
+}
 
 
+<main class="habitacion-general" id="tutorial-main">
+    <section class="habitacion-general-main" id="tutorial-section">
+        <div class="text-center">
+            <h1 class="display-4">Tutorial</h1>
+        </div>
+        <div>
+            <h2>Qué debes hacer</h2>
+            <p>Para completar esta sala de escape vas a tener que resolver una serie de acertijos. Cada uno va a tener una introducción, una explicación y una clave única que vas a tener que descubrir.</p>
+        </div>
+        <div>    
+            <h2>Cómo jugar</h2>
+            <p>Una vez hayas descubierto la clave, vas a poder ingresarla en una caja, como se ve en la siguiente imagen, y pasarás a la siguiente habitación si lo haces correctamente.</p>
+            <div class="tutorial-img">
+                <img src="../Images/tutorial/enviar_respuesta.png" alt="Enviar Respuesta">
+            </div>
+        </div>
+        
+        <div>
+            <h3>Pistas</h3>
+            <p>Abajo a la derecha vas a encontrar una lupa. Si en algún momento estás trabado en una habitación y no sabes cómo avanzar, puedes tocar la lupa. Al Mc Whiggin no dudará en ayudarte.</p>
+            <div class="tutorial-img">
+                <img src="../Images/General/lupa.png" alt="Lupa">
+            </div>
+        </div>
+
+        <div>
+            <h3>Timer</h3>
+            <p>En la parte inferior de la pantalla hallarás un timer de 10:00. Este timer, una vez que entres a la primera habitación, comenzará a contar hasta 0. Una vez que el timer llegue a 0, se considerará que perdiste, pero tranquilo, podrás completar la sala de todas formas.</p>
+            <div class="tutorial-img">
+                <img src="../Images/tutorial/timer.png" alt="Timer">
+            </div>
+        </div>
+        
+        <div>
+            <h3>Volver al menú</h3>
+            <p>Si en algún momento tienes dudas sobre la sala, puedes venir aquí a través del botón del menú.</p>
+            <div class="tutorial-img">
+                <img src="../Images/tutorial/boton_menu.png" alt="Botón Menú">
+            </div>
+        </div>
+    </section>
+</main>
 <footer class="footer">
     <div class="footer-left">
         &copy; Sala de escape
@@ -8,6 +52,9 @@
     <div class="footer-right">
         <div class="pista-menu">
             <img src="../Images/General/lupa.png" alt="Pista" class="img-pista">
+        </div>
+        <div class="boton-menu" id="reset">
+            <button onclick="window.location.href='@Url.Action("Resetear","Home")'">Reiniciar Juego</button>
         </div>
         <div class="boton-menu">
             <button onclick="window.location.href='@Url.Action("Index")'">Volver al menu</button>

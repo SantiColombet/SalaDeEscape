@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Wda3ZevegVzkS2C7ZLG7wulAaKhaW+NsiPBtHoy7RfM=",
+  "Hash": "wyQz2vg9xxWR0FLTuBke0BQ7+HRTGy9TNG2K/rb7gqI=",
   "Source": "sala_de_escape",
   "BasePath": "_content/sala_de_escape",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "sala_de_escape\\wwwroot",
       "Source": "sala_de_escape",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\obj\\Debug\\net8.0\\scopedcss\\bundle\\sala_de_escape.styles.css",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\obj\\Debug\\net8.0\\scopedcss\\bundle\\sala_de_escape.styles.css",
       "SourceId": "sala_de_escape",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "sala_de_escape.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\VisualStudioOrt\\SalaDeEscape\\obj\\Debug\\net8.0\\scopedcss\\bundle\\sala_de_escape.styles.css"
+      "OriginalItemSpec": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\obj\\Debug\\net8.0\\scopedcss\\bundle\\sala_de_escape.styles.css"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\sala_de_escape.bundle.scp.css",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\sala_de_escape.bundle.scp.css",
       "SourceId": "sala_de_escape",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "sala_de_escape.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\VisualStudioOrt\\SalaDeEscape\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\sala_de_escape.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\sala_de_escape.bundle.scp.css"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\css\\site.css",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\favicon.ico",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\Images\\creditos\\Berman.jpg",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\Images\\creditos\\Berman.jpg",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "Images/creditos/Berman.jpg",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\creditos\\Berman.jpg"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\Images\\creditos\\dekel.jpg",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\Images\\creditos\\dekel.jpg",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "Images/creditos/dekel.jpg",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\creditos\\dekel.jpg"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\Images\\creditos\\santi.jpg",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\Images\\creditos\\santi.jpg",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "Images/creditos/santi.jpg",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\creditos\\santi.jpg"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\Images\\General\\Al_McWhiggin.png",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\Images\\General\\Al_McWhiggin.png",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "Images/General/Al_McWhiggin.png",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\General\\Al_McWhiggin.png"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\Images\\General\\Background_toy_story.png",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\Images\\General\\Background_toy_story.png",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "Images/General/Background_toy_story.png",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\General\\Background_toy_story.png"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\Images\\General\\Logo.png",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\Images\\General\\Logo.png",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "Images/General/Logo.png",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\General\\Logo.png"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\Images\\General\\lupa.png",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\Images\\General\\lupa.png",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "Images/General/lupa.png",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\General\\lupa.png"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\Images\\Habitacion1\\Habitacion_1.png",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\Images\\Habitacion1\\Habitacion_1.png",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "Images/Habitacion1/Habitacion_1.png",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Habitacion1\\Habitacion_1.png"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\Images\\habitacion2\\pilasbuzz.jpg",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\Images\\habitacion2\\pilasbuzz.jpg",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "Images/habitacion2/pilasbuzz.jpg",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\habitacion2\\pilasbuzz.jpg"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\Images\\Habitacion3\\Camioneta_correcta.png",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\Images\\Habitacion3\\Camioneta_correcta.png",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "Images/Habitacion3/Camioneta_correcta.png",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Habitacion3\\Camioneta_correcta.png"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\Images\\Habitacion3\\Camioneta_falsa.png",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\Images\\Habitacion3\\Camioneta_falsa.png",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "Images/Habitacion3/Camioneta_falsa.png",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Habitacion3\\Camioneta_falsa.png"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\Images\\habitacion4\\buzz.png",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\Images\\habitacion4\\buzz.png",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "Images/habitacion4/buzz.png",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\habitacion4\\buzz.png"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\Images\\habitacion4\\caballo.png",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\Images\\habitacion4\\caballo.png",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "Images/habitacion4/caballo.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\habitacion4\\caballo.png"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\Images\\habitacion4\\jesi.png",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\Images\\habitacion4\\jesi.png",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "Images/habitacion4/jesi.png",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\habitacion4\\jesi.png"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\Images\\habitacion4\\rex.png",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\Images\\habitacion4\\rex.png",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "Images/habitacion4/rex.png",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\habitacion4\\rex.png"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\Images\\habitacion4\\woody.png",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\Images\\habitacion4\\woody.png",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "Images/habitacion4/woody.png",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\habitacion4\\woody.png"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\Images\\IndexImg\\Al_mcwighin.png",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\Images\\IndexImg\\Al_mcwighin.png",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "Images/IndexImg/Al_mcwighin.png",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\IndexImg\\Al_mcwighin.png"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\Images\\IndexImg\\Buzz_inicio.png",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\Images\\IndexImg\\Buzz_inicio.png",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "Images/IndexImg/Buzz_inicio.png",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\IndexImg\\Buzz_inicio.png"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\Images\\IndexImg\\Marcianitos.png",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\Images\\IndexImg\\Marcianitos.png",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "Images/IndexImg/Marcianitos.png",
       "AssetKind": "All",
@@ -454,10 +454,67 @@
       "OriginalItemSpec": "wwwroot\\Images\\IndexImg\\Marcianitos.png"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\Images\\Victoria\\Buzz-pizza.jpeg",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\Images\\tutorial\\boton_menu.png",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
+      "BasePath": "_content/sala_de_escape",
+      "RelativePath": "Images/tutorial/boton_menu.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\tutorial\\boton_menu.png"
+    },
+    {
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\Images\\tutorial\\enviar_respuesta.png",
+      "SourceId": "sala_de_escape",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
+      "BasePath": "_content/sala_de_escape",
+      "RelativePath": "Images/tutorial/enviar_respuesta.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\tutorial\\enviar_respuesta.png"
+    },
+    {
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\Images\\tutorial\\timer.png",
+      "SourceId": "sala_de_escape",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
+      "BasePath": "_content/sala_de_escape",
+      "RelativePath": "Images/tutorial/timer.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\tutorial\\timer.png"
+    },
+    {
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\Images\\Victoria\\Buzz-pizza.jpeg",
+      "SourceId": "sala_de_escape",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "Images/Victoria/Buzz-pizza.jpeg",
       "AssetKind": "All",
@@ -473,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Victoria\\Buzz-pizza.jpeg"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\js\\camionetas.js",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\js\\camionetas.js",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "js/camionetas.js",
       "AssetKind": "All",
@@ -492,29 +549,10 @@
       "OriginalItemSpec": "wwwroot\\js\\camionetas.js"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\js\\general.js",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\js\\memotest.js",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
-      "BasePath": "_content/sala_de_escape",
-      "RelativePath": "js/general.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\general.js"
-    },
-    {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\js\\memotest.js",
-      "SourceId": "sala_de_escape",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "js/memotest.js",
       "AssetKind": "All",
@@ -530,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\js\\memotest.js"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\js\\pista1.js",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\js\\pista1.js",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "js/pista1.js",
       "AssetKind": "All",
@@ -549,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\js\\pista1.js"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\js\\pista2.js",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\js\\pista2.js",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "js/pista2.js",
       "AssetKind": "All",
@@ -568,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\js\\pista2.js"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\js\\pista3.js",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\js\\pista3.js",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "js/pista3.js",
       "AssetKind": "All",
@@ -587,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\js\\pista3.js"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\js\\pista4.js",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\js\\pista4.js",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "js/pista4.js",
       "AssetKind": "All",
@@ -606,10 +644,29 @@
       "OriginalItemSpec": "wwwroot\\js\\pista4.js"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\js\\timer.js",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
+      "BasePath": "_content/sala_de_escape",
+      "RelativePath": "js/timer.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\timer.js"
+    },
+    {
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "SourceId": "sala_de_escape",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -625,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -644,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -663,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -682,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -701,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -720,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -739,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -758,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -777,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -796,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -815,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -834,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -853,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -872,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -891,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -910,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -929,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -948,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -967,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -986,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1005,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1024,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1043,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1062,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1081,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1100,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1119,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1138,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1157,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1176,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1195,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1214,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1233,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1252,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1271,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1290,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1309,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1328,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1347,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1366,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1385,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1404,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1423,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1442,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1461,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1480,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1499,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1518,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1537,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1556,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1575,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1594,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1613,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1632,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1651,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1670,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "sala_de_escape",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\VisualStudioOrt\\SalaDeEscape\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\USUARIO\\Downloads\\SalaDeEscape\\wwwroot\\",
       "BasePath": "_content/sala_de_escape",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",

@@ -9,63 +9,63 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = sala_de_escape
 build_property.RootNamespace = sala_de_escape
-build_property.ProjectDir = C:\VisualStudioOrt\SalaDeEscape\
+build_property.ProjectDir = C:\Users\USUARIO\Downloads\SalaDeEscape\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\VisualStudioOrt\SalaDeEscape
+build_property.MSBuildProjectDirectory = C:\Users\USUARIO\Downloads\SalaDeEscape
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/VisualStudioOrt/SalaDeEscape/Views/Home/Creditos.cshtml]
+[C:/Users/USUARIO/Downloads/SalaDeEscape/Views/Home/Creditos.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVkaXRvcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/VisualStudioOrt/SalaDeEscape/Views/Home/Habitacion1.cshtml]
+[C:/Users/USUARIO/Downloads/SalaDeEscape/Views/Home/Habitacion1.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIYWJpdGFjaW9uMS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/VisualStudioOrt/SalaDeEscape/Views/Home/Habitacion2.cshtml]
+[C:/Users/USUARIO/Downloads/SalaDeEscape/Views/Home/Habitacion2.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIYWJpdGFjaW9uMi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/VisualStudioOrt/SalaDeEscape/Views/Home/Habitacion3.cshtml]
+[C:/Users/USUARIO/Downloads/SalaDeEscape/Views/Home/Habitacion3.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIYWJpdGFjaW9uMy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/VisualStudioOrt/SalaDeEscape/Views/Home/Habitacion4.cshtml]
+[C:/Users/USUARIO/Downloads/SalaDeEscape/Views/Home/Habitacion4.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIYWJpdGFjaW9uNC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/VisualStudioOrt/SalaDeEscape/Views/Home/Index.cshtml]
+[C:/Users/USUARIO/Downloads/SalaDeEscape/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/VisualStudioOrt/SalaDeEscape/Views/Home/Tutorial.cshtml]
+[C:/Users/USUARIO/Downloads/SalaDeEscape/Views/Home/Tutorial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUdXRvcmlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/VisualStudioOrt/SalaDeEscape/Views/Home/Victoria.cshtml]
+[C:/Users/USUARIO/Downloads/SalaDeEscape/Views/Home/Victoria.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxWaWN0b3JpYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/VisualStudioOrt/SalaDeEscape/Views/Shared/Error.cshtml]
+[C:/Users/USUARIO/Downloads/SalaDeEscape/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/VisualStudioOrt/SalaDeEscape/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/USUARIO/Downloads/SalaDeEscape/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/VisualStudioOrt/SalaDeEscape/Views/_ViewImports.cshtml]
+[C:/Users/USUARIO/Downloads/SalaDeEscape/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/VisualStudioOrt/SalaDeEscape/Views/_ViewStart.cshtml]
+[C:/Users/USUARIO/Downloads/SalaDeEscape/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/VisualStudioOrt/SalaDeEscape/Views/Shared/_Layout.cshtml]
+[C:/Users/USUARIO/Downloads/SalaDeEscape/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-6qsu316bu8
