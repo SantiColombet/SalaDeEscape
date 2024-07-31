@@ -1,9 +1,9 @@
-
 let segundosTotales = 600; 
 const timer = document.querySelector("#timer");
 const boton = document.querySelector("#boton-menu");
 
-boton.addEventListener("click", () =>{
+
+boton.addEventListener("click", () => {
     localStorage.setItem('segundos', 600);
 });
 
@@ -27,7 +27,7 @@ function updateTimer() {
     if(segundosTotales == 0){
         console.log("hola")
         Swal.fire({
-            title: 'Se termino tu tiempo...',
+            title: 'Se terminó tu tiempo...',
             confirmButtonText: 'continuar',
             text: "Podés seguir jugando, pero no pudiste escapar a tiempo",
             imageHeight: 400,
@@ -44,5 +44,3 @@ if (segundosGuardados) {
 }
 const timerInterval = setInterval(updateTimer, 1000);
 updateTimer();
-
-

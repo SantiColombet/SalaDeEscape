@@ -176,6 +176,7 @@ h1.display-4 {
   font-weight: bold;
 }
 
+
 /*  PISTA  */
 .custom-swal-image {
   border-radius: 5px; 
@@ -622,6 +623,7 @@ color: rgba(255,0,0,1);
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin-bottom: 100px;
 }
 
 .habitacion-victoria-main {
