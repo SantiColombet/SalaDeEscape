@@ -24,7 +24,7 @@ function shuffleArray(array) {
 function createBoard() {
     shuffleArray(cards);
     const gameBoard = document.getElementById('game-board');
-    gameBoard.innerHTML = ''; // Clear the board
+    gameBoard.innerHTML = ''; 
     cards.forEach((imagePath, index) => {
         const card = document.createElement('div');
         card.classList.add('card');
@@ -57,6 +57,7 @@ function flipCard() {
     }
 }
 
+
 function checkMatch() {
     const [card1, card2] = flippedCards;
     const index1 = card1.dataset.index;
@@ -72,20 +73,11 @@ function checkMatch() {
 
     if (document.querySelectorAll('.flipped').length === cards.length) {
         setTimeout(() => {
-            const button = document.createElement("button");
-            button.textContent = "??";
-            div1.appendChild(button); 
-            button.classList.add("habitacion-4-boton");
-        
-            button.addEventListener("click", () => {
-                Swal.fire({
-                    title: 'clave',
-                    imageUrl: "../Images/habitacion4/rex.png",
-                    text: 'rex'
-                })
-            });
-
             alert(`¡Felicidades! Has completado el juego en ${moves} movimientos.`);
+            const form = document.getElementById('form4');
+            const claveInput = form.querySelector('input[name="clave"]');
+            claveInput.value = 'rex';
+            form.submit();
         }, 500);
     } else if (moves >= maxMoves) {
         setTimeout(() => {
@@ -93,7 +85,6 @@ function checkMatch() {
             resetGame();
         }, 500);
     }
-
 }
 
 function updateMoves() {

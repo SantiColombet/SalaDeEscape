@@ -477,9 +477,6 @@ margin-top: 20px;
 
 
 /*                                                            TUTORIAL                                                        */
-/* Tutorial Page Styles */
-
-
 #tutorial-section {
   background-color: white;
   border-radius: 15px;
@@ -683,148 +680,89 @@ h1.display-4 {
   margin-top: 20px;
 }
 /*                                                                      CALCULADORA                                                     */
-.contenedor {
-  height: 10vh;
-  width: 10vw;
-  display: grid;
-  place-items: center;
-  justify-content: start;
-  
+
+.calculator-wrapper {
+  position: fixed;
+  left: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 1000;
 }
-*{
-  border: solid black 1px;
-}
+
 .calculator {
-  position: relative;
-  height: auto;
-  width: auto;
+  width: 280px;
+  background-color: #f7f7f7;
+  border-radius: 20px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  font-family: 'Arial', sans-serif;
+  overflow: hidden;
+}
+
+.calculator-display {
+  background-color: #f7f7f7;
+  color: #333;
+  font-size: 2.5em;
   padding: 20px;
-  border-radius: 10px;
-  box-shadow: 0 0 30px #000;
+  text-align: right;
+  min-height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  border-bottom: 1px solid #e0e0e0;
 }
 
-.theme-toggler {
-  position: absolute;
-  top: 30px;
-  right: 30px;
-  color: #fff;
+.calculator-keypad {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1px;
+  background-color: #e0e0e0;
+}
+
+.calculator-key {
+  background-color: #fff;
+  border: none;
+  font-size: 1.5em;
+  padding: 21px;
   cursor: pointer;
-  z-index: 1;
+  transition: background-color 0.3s, color 0.3s;
+  outline: none;
 }
 
-.theme-toggler.active {
+.calculator-key:hover {
+  background-color: #f0f0f0;
+}
+
+.calculator-key:active {
+  background-color: #e0e0e0;
+}
+
+.key-0 {
+  grid-column: span 2;
+}
+
+.operator {
+  background-color: #f1a33c;
+  color: white;
+}
+
+.operator:hover {
+  background-color: #e09526;
+}
+
+.key-equals {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.key-equals:hover {
+  background-color: #45a049;
+}
+
+.key-clear, .key-sign, .key-percent {
+  background-color: #e0e0e0;
   color: #333;
 }
 
-.theme-toggler.active::before {
-  background-color: #fff;
-}
-
-.theme-toggler::before {
-  content: '';
-  height: 30px;
-  width: 30px;
-  position: absolute;
-  top: 50%;
-  transform: translate(-50%, -50%);
-  border-radius: 50%;
-  background-color: #333;
-  z-index: -1;
-}
-
-#display {
-  margin: 0 10px;
-  height: 150px;
-  width: auto;
-  max-width: 270px;
-  display: flex;
-  align-items: flex-end;
-  justify-content: flex-end;
-  font-size: 30px;
-  margin-bottom: 20px;
-  overflow-x: scroll;
-}
-
-#display::-webkit-scrollbar {
-  display: block;
-  height: 3px;
-}
-
-.btn-operator, .btn-number, .btn-equal {
-  height: 60px;
-  width: 60px;
-  border: 0;
-  border-radius: 30px;
-  margin: 5px;
-  font-size: 20px;
-  cursor: pointer;
-  transition: all 200ms ease;
-}
-
-button:hover {
-  transform: scale(1.1);
-}
-
-button#equal {
-  height: 130px;
-}
-
-/* light theme */
-
-.calculator {
-  background-color: #fff;
-}
-
-.calculator #display {
-  color: #0a1e23;
-}
-
-.calculator button#clear {
-  background-color: #ffd5d8;
-  color: #fc4552;
-}
-
-.calculator button.btn-number {
-  background-color: #c3eaff;
-  color: #000000;
-}
-
-.calculator button.btn-operator {
-  background-color: #ffd0fb;
-  color: #f967f3;
-}
-
-.calculator button.btn-equal {
-  background-color: #adf9e7;
-  color: #000;
-}
-
-/* dark theme */
-
-.calculator.dark {
-  background-color: #071115;
-}
-
-.calculator.dark #display {
-  color: #f8fafb;
-}
-
-.calculator.dark button#clear {
-  background-color: #2d191e;
-  color: #bd3740;
-}
-
-.calculator.dark button.btn-number {
-  background-color: #1b2f38;
-  color: #f8fafb;
-}
-
-.calculator.dark button.btn-operator {
-  background-color: #2e1f39;
-  color: #aa00a4;
-}
-
-.calculator.dark button.btn-equal {
-  background-color: #223323;
-  color: #ffffff;
+.key-clear:hover, .key-sign:hover, .key-percent:hover {
+  background-color: #d0d0d0;
 }

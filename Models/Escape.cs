@@ -29,6 +29,5 @@ public static int TotalSalas = incognitasSalas.Length;
             resuelto = false;
         }
         return resuelto;
-        }
-
+    }
 }

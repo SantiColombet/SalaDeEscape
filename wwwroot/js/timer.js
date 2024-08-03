@@ -34,7 +34,12 @@ function updateTimer() {
             customClass: {
                 image: 'custom-swal-image'
             }
-        });
+        }).then((result) => {
+            if (result.isConfirmed) {
+                window.location.href='/Home/Resetear';
+                localStorage.setItem('segundos', 600);
+            }
+          });
     }
 }
 
