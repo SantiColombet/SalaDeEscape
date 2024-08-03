@@ -1,6 +1,6 @@
 let segundosTotales = 600; 
 const timer = document.querySelector("#timer");
-const boton = document.querySelector("#boton-menu");
+const boton = document.querySelector("#reiniciar-boton");
 
 
 boton.addEventListener("click", () => {

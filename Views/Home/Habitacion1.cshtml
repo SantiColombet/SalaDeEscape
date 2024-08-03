@@ -30,6 +30,8 @@
             <img src="../Images/Habitacion1/Habitacion_1.png" alt="Habitación 1">
         </div>
         
+    
+        
         <form class = "form" action = '@Url.Action("Habitacion","Home")'>
             <input type= "hidden" name = "sala" value="1">
         <span class="input">
@@ -49,7 +51,52 @@
         
             
     </section>
+    
+     <div class="contenedor">
+        <div class="calculator dark">
+            <div class="theme-toggler active">
+                <i class="toggler-icon"></i>
+            </div>
+            <div class="display-screen">
+                <div id="display"></div>
+            </div>
+            <div class="buttons">
+                <table>
+                    <tr>
+                        <td><button class="btn-operator" id="clear">C</button></td>
+                        <td><button class="btn-operator" id="/">&divide;</button></td>
+                        <td><button class="btn-operator" id="*">&times;</button></td>
+                        <td><button class="btn-operator" id="backspace"><</button></td>
+                    </tr>
+                    <tr>
+                        <td><button class="btn-number" id="7">7</button></td>
+                        <td><button class="btn-number" id="8">8</button></td>
+                        <td><button class="btn-number" id="9">9</button></td>
+                        <td><button class="btn-operator" id="-">-</button></td>
+                    </tr>
+                    <tr>
+                        <td><button class="btn-number" id="4">4</button></td>
+                        <td><button class="btn-number" id="5">5</button></td>
+                        <td><button class="btn-number" id="6">6</button></td>
+                        <td><button class="btn-operator" id="+">+</button></td>
+                    </tr>
+                    <tr>
+                        <td><button class="btn-number" id="1">1</button></td>
+                        <td><button class="btn-number" id="2">2</button></td>
+                        <td><button class="btn-number" id="3">3</button></td>
+                        <td rowspan="2"><button class="btn-equal" id="equal">=</button></td>
+                    </tr>
+                    <tr>
+                        <td><button class="btn-operator" id="(">(</button></td>
+                        <td><button class="btn-number" id="0">0</button></td>
+                        <td><button class="btn-operator" id=")">)</button></td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
 </main>
+
 <footer class="footer">
     <div class="footer-left">
         &copy; Sala de escape
@@ -59,11 +106,15 @@
         <div class="pista-menu">
             <img src="../Images/General/lupa.png" alt="Pista" class="img-pista" id="pista1">
         </div>
+        <div class="boton-menu" id="reset">
+            <button id="reiniciar-boton" onclick="window.location.href='@Url.Action("Resetear","Home")'">Reiniciar Juego</button>
+        </div>
         <div class="boton-menu">
-            <button id="boton-menu" onclick="window.location.href='@Url.Action("Index")'">Volver al menu</button>
+         <input type="button" value = "Volver al menu" id="boton-menu" onclick="window.location.href='@Url.Action("Index")'">
         </div>
     </div>
 </footer>
 
 
     <script src="~/js/timer.js"></script>
+    <script src="~/js/calculadora.js"></script>
